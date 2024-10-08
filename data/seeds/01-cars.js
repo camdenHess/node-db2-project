@@ -20,7 +20,6 @@ const cars = [
         make: 'ford',
         model: 'focus',
         mileage: 15000,
-        title: 'clean'
     }
 ]
 
